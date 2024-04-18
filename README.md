@@ -3,7 +3,7 @@ This repository is about Business intelligence presentation. In this, there is p
 
 ## Introduction - 
 
-In this proposal, I am going to prepare the plan for the business Intelligence presentation. In today's world, understanding and predicting customer churn is very important when you are trying to figure out who are the loyal customers and who are not. This Business Intelligence presentation will focus on the prediction of customer churn, which is very important in the field of banking.
+In this proposal, I am going to prepare the plan for the business Intelligence presentation. In today's world, understanding and predicting customer churn is very important when you are trying to figure out who are the loyal customers and who are not. This Business Intelligence presentation will focus on the factors affecting customer churn, which is very important in the field of banking.
 The goal of this presentation is to know the key factors influencing customer churn. Also to discuss how it is important to have data-driven insights to keep the customer retention rate high. 
 
 ## Presentation Candidate - 
@@ -12,7 +12,7 @@ My name is Rajas Joshi and I have done my bachelor's in Business Administration.
 
 ## Data Selection - 
 
-The dataset that I have chosen today is called churn modeling, which has information about the customers of the bank around the globe. This data set contains columns such as customer_ID, surname, credit score, the geography of the customer that is where are they located, gender of the customer, age, number of products they have bought, is that the customer active member, estimated salary of the customer, and that customer is still with that bank or not. The reason why I chose this topic is because I wanted to know what is the retention rate of the bank towards the customer and how many products and services those customers are using and are they happy with the product and services that they are getting.
+The dataset that I have chosen today is called churn modeling, which has information about the customers of the bank around the globe. This data set contains columns such as customer_ID, surname, credit score, the geography of the customer that is where are they located, gender of the customer, age, number of products they have bought, is that the customer active member, estimated salary of the customer, date of joining, and that customer is still with that bank or not. The reason why I chose this topic is because I wanted to know what is the retention rate of the bank towards the customer and how many products and services those customers are using and are they happy with the product and services that they are getting.
 
 ## Business Intelligence Techniques Demonstration - 
 
@@ -30,12 +30,12 @@ Design the criteria and parameters based on what the Power BI dashboard will be 
 Start working on the power wheel dashboard.
 Week 3 - 
 Finalize the Power BI dashboard with polished visualizations and storytelling elements.
-The tools that I will be using throughout this process will be a Power BI desktop, Jupiter notebooks, and the libraries such as Pandas. The data set that I will be working on is churn modeling.
+The tools that I will be using throughout this process will be a Power BI desktop, Jupiter notebooks, and libraries such as Pandas. The data set that I will be working on is churn modeling.
 
 
 ## Conclusion - 
 
-In conclusion, The proposal gives an idea about the overall plan to make a Power BI  presentation on the Churn modeling dataset which I have obtained from Kaggle. The business intelligence presentation on the bank customers churn prediction will be done by using Power BI, I will be aiming to provide insights into customer behavior and potential churn factors. Through the visualizations, I will be highlighting key metrics like demographics, credit score, product usage, and identifying pattern that indicates churn.
+In conclusion, The proposal gives an idea about the overall plan to make a Power BI  presentation on the Churn modeling dataset which I have obtained from Kaggle. The business intelligence presentation on the bank customer's churn will be done by using Power BI, I will be aiming to provide insights into customer behavior and potential churn factors. Through the visualizations, I will be highlighting key metrics like demographics, credit score, product usage, and identifying pattern that indicates churn.
 
 
 ## Appendices - 
